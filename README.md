@@ -1,6 +1,6 @@
 # Papelaria: análise de vendas e qualidade dos dados
 
-Projeto demonstrativo de Agta Silva Pereira, desenvolvido no Power BI com dados fictícios de uma papelaria entre janeiro e março de 2026.
+Desenvolvi este projeto demonstrativo no Power BI com dados fictícios de uma papelaria entre janeiro e março de 2026.
 
 O painel responde a duas perguntas: quais produtos e meses concentram a receita dos itens aprovados e quais registros precisam de revisão antes de entrar na análise?
 
@@ -24,7 +24,7 @@ As 14 pendências incluem quatro quantidades ausentes, quatro quantidades negati
 
 Uma planilha pode apresentar valores que o sistema reconhece como números e, ainda assim, conter inconsistências para o negócio. Quantidades negativas ou descontos maiores que o valor do item, por exemplo, podem distorcer a análise.
 
-Neste projeto, registros com pendências são preservados em uma consulta própria. Eles não são corrigidos por suposição nem entram na receita apresentada.
+Preservei os registros com pendências em uma consulta própria para conferência. Mantive esses registros fora da receita apresentada e não corrigi valores por suposição.
 
 ## Páginas do relatório
 
@@ -42,21 +42,21 @@ O indicador de pendências da primeira página representa a base completa e perm
 - **DAX:** medidas de receita e contagens, além de coluna de referência mensal.
 - **Power BI:** cartões, gráficos, segmentação por categoria e tabela de conferência.
 
-O tratamento foi construído no Power Query. O script Python incluído em `dados/` apenas gera os dados sintéticos de apoio; ele não executa o tratamento do relatório.
+Construí o tratamento dos dados no Power Query. O script Python incluído em `dados/` apenas gera os dados sintéticos de apoio; ele não executa o tratamento do relatório.
 
 ## Etapas de preparação
 
-1. Preservar a entrada na consulta `Vendas_Original`.
-2. Criar `Vendas_Tratadas` por referência, aparar espaços e padronizar os nomes dos produtos.
-3. Remover duplicatas completamente idênticas, considerando todas as colunas da entrada.
-4. Ajustar datas, quantidades, preços e descontos aos tipos adequados, usando a localidade Português (Brasil) nas conversões necessárias.
-5. Calcular `valor_bruto` como quantidade × preço unitário.
-6. Sinalizar quantidades ausentes ou inválidas e descontos excessivos.
-7. Agrupar por `id_item` na consulta `Conferencia_IDs` e identificar IDs que continuam repetidos após a remoção das cópias idênticas.
-8. Mesclar essa conferência em `Vendas_Validadas` e sinalizar os registros conflitantes.
-9. Separar `Vendas_Aprovadas` e `Vendas_Para_Revisao`. Calcular o valor líquido apenas nos itens aprovados.
+1. Preservei os dados de entrada na consulta `Vendas_Original`.
+2. Criei `Vendas_Tratadas` por referência, removi espaços excedentes e padronizei os nomes dos produtos.
+3. Removi duplicatas completamente idênticas, considerando todas as colunas da entrada.
+4. Ajustei datas, quantidades, preços e descontos aos tipos adequados, usando a localidade Português (Brasil) nas conversões necessárias.
+5. Calculei `valor_bruto` como quantidade × preço unitário.
+6. Sinalizei quantidades ausentes ou inválidas e descontos excessivos.
+7. Agrupei os registros por `id_item` na consulta `Conferencia_IDs` e identifiquei os IDs que continuavam repetidos após a remoção das cópias idênticas.
+8. Mesclei essa conferência em `Vendas_Validadas` e sinalizei os registros com informações conflitantes.
+9. Separei os registros nas consultas `Vendas_Aprovadas` e `Vendas_Para_Revisao`. Calculei o valor líquido apenas nos itens aprovados.
 
-As consultas intermediárias servem à preparação; as duas consultas finais alimentam o relatório.
+Utilizei as consultas intermediárias na preparação dos dados e carreguei as duas consultas finais para alimentar o relatório.
 
 ## Cálculos principais
 
@@ -108,7 +108,7 @@ O relatório demonstra preparação e análise de dados; não representa uma emp
 
 A contagem de registros corresponde a linhas de itens, não a vendas distintas. Uma venda pode ter mais de um item, inclusive itens aprovados e pendentes. As regras de validação cobrem os problemas definidos neste exercício e precisariam ser adaptadas ao contexto de uma empresa real.
 
-Os totais foram conferidos no relatório e com o gabarito sintético. A atualização do PBIX deve ser validada no Power BI Desktop após ajustar o caminho da fonte em outro computador.
+Conferi os totais no relatório e com o gabarito sintético. A atualização do PBIX deve ser validada no Power BI Desktop após ajustar o caminho da fonte em outro computador.
 
 ## Contato profissional
 
