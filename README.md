@@ -58,28 +58,17 @@ Construí o tratamento dos dados no Power Query. O script Python incluído em `d
 
 Utilizei as consultas intermediárias na preparação dos dados e carreguei as duas consultas finais para alimentar o relatório.
 
-## Cálculos principais
+## Como calculei os indicadores
 
-O desconto é um valor em reais por linha de item, não um percentual nem um desconto por unidade.
+Para obter o valor bruto de cada item, multipliquei a quantidade pelo preço unitário. Em seguida, descontei o valor informado na mesma linha para chegar ao valor líquido. Considerei o desconto como um valor em reais por linha de item.
 
-```text
-valor_bruto = quantidade × preco_unitario
-valor_liquido = valor_bruto − desconto
-```
+Calculei a receita apresentada no painel somando os valores líquidos dos itens aprovados. Mantive os registros com pendências fora dessa soma até que suas informações fossem conferidas.
 
-```dax
-Receita Aprovada = SUM(Vendas_Aprovadas[valor_liquido])
+Contei separadamente os registros aprovados e os registros para revisão. Essas contagens representam linhas de itens, pois uma mesma venda pode conter mais de um produto.
 
-Registros Aprovados = COUNTROWS(Vendas_Aprovadas)
+Para analisar a evolução mensal, agrupei as datas por mês e ano. Também utilizei os valores líquidos dos itens aprovados para apresentar a receita por produto.
 
-Registros para Revisão = COUNTROWS(Vendas_Para_Revisao)
-```
-
-Coluna calculada para agrupar os meses:
-
-```dax
-Mes = DATE(YEAR(Vendas_Aprovadas[data]), MONTH(Vendas_Aprovadas[data]), 1)
-```
+Criei as medidas e a coluna de referência mensal em DAX, utilizando os dados preparados no Power Query.
 
 ## Como abrir
 
