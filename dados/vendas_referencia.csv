@@ -1,0 +1,301 @@
+﻿id_item;id_venda;data;produto;categoria;quantidade;preco_unitario;desconto;forma_pagamento
+ITEM-0001;VENDA-001;22/02/2026;Caderno universitário;Cadernos;1;25,90;0,00;Pix
+ITEM-0002;VENDA-001;22/02/2026;Mochila escolar;Mochilas;5;129,90;0,00;Pix
+ITEM-0003;VENDA-002;29/01/2026;Caderno universitário;Cadernos;2;25,90;0,00;Dinheiro
+ITEM-0004;VENDA-002;29/01/2026;Mochila escolar;Mochilas;5;129,90;0,00;Dinheiro
+ITEM-0005;VENDA-003;10/01/2026;Régua 30 cm;Acessórios;1;5,90;2,00;Cartão de débito
+ITEM-0006;VENDA-003;10/01/2026;Caneta azul;Escrita;1;3,50;0,00;Cartão de débito
+ITEM-0007;VENDA-004;05/02/2026;Papel A4 500 folhas;Papéis;1;32,90;0,00;Dinheiro
+ITEM-0008;VENDA-004;05/02/2026;Caderno pequeno;Cadernos;1;12,90;1,00;Dinheiro
+ITEM-0009;VENDA-005;28/02/2026;Caderno pequeno;Cadernos;3;12,90;2,00;Cartão de débito
+ITEM-0010;VENDA-005;28/02/2026;Caderno universitário;Cadernos;1;25,90;0,00;Cartão de débito
+ITEM-0011;VENDA-006;17/01/2026;Borracha branca;Acessórios;5;2,50;2,00;Dinheiro
+ITEM-0012;VENDA-006;17/01/2026;Caneta azul;Escrita;4;3,50;1,00;Dinheiro
+ITEM-0013;VENDA-007;10/01/2026;Mochila escolar;Mochilas;1;129,90;1,00;Cartão de débito
+ITEM-0014;VENDA-007;10/01/2026;Mochila escolar;Mochilas;3;129,90;0,00;Cartão de débito
+ITEM-0015;VENDA-008;29/01/2026;Caneta preta;Escrita;1;3,50;0,00;Cartão de débito
+ITEM-0016;VENDA-008;29/01/2026;Borracha branca;Acessórios;4;2,50;2,00;Cartão de débito
+ITEM-0017;VENDA-009;06/01/2026;Caneta azul;Escrita;3;3,50;1,00;Dinheiro
+ITEM-0018;VENDA-009;06/01/2026;Caneta azul;Escrita;4;3,50;1,00;Dinheiro
+ITEM-0019;VENDA-010;25/01/2026;Régua 30 cm;Acessórios;1;5,90;2,00;Pix
+ITEM-0020;VENDA-010;25/01/2026;Mochila escolar;Mochilas;1;129,90;0,00;Pix
+ITEM-0021;VENDA-011;11/02/2026;Caneta preta;Escrita;2;3,50;0,00;Cartão de crédito
+ITEM-0022;VENDA-011;11/02/2026;Estojo escolar;Acessórios;4;19,90;0,00;Cartão de crédito
+ITEM-0023;VENDA-012;04/01/2026;Caneta preta;Escrita;4;3,50;0,00;Cartão de crédito
+ITEM-0024;VENDA-012;04/01/2026;Estojo escolar;Acessórios;5;19,90;0,00;Cartão de crédito
+ITEM-0025;VENDA-013;30/01/2026;Caderno universitário;Cadernos;2;25,90;0,00;Pix
+ITEM-0026;VENDA-013;30/01/2026;Caneta azul;Escrita;2;3,50;1,00;Pix
+ITEM-0027;VENDA-014;24/01/2026;Caderno universitário;Cadernos;2;25,90;2,00;Dinheiro
+ITEM-0028;VENDA-014;24/01/2026;Mochila escolar;Mochilas;5;129,90;0,00;Dinheiro
+ITEM-0029;VENDA-015;23/01/2026;Papel A4 500 folhas;Papéis;5;32,90;1,00;Cartão de crédito
+ITEM-0030;VENDA-015;23/01/2026;Lápis grafite;Escrita;3;2,00;1,00;Cartão de crédito
+ITEM-0031;VENDA-016;19/01/2026;Caderno universitário;Cadernos;1;25,90;0,00;Cartão de débito
+ITEM-0032;VENDA-016;19/01/2026;Caderno universitário;Cadernos;5;25,90;0,00;Cartão de débito
+ITEM-0033;VENDA-017;25/02/2026;Caneta azul;Escrita;3;3,50;2,00;Dinheiro
+ITEM-0034;VENDA-017;25/02/2026;Régua 30 cm;Acessórios;4;5,90;1,00;Dinheiro
+ITEM-0035;VENDA-018;28/03/2026;Régua 30 cm;Acessórios;1;5,90;0,00;Cartão de débito
+ITEM-0036;VENDA-018;28/03/2026;Caneta azul;Escrita;1;3,50;1,00;Cartão de débito
+ITEM-0037;VENDA-019;22/01/2026;Estojo escolar;Acessórios;1;19,90;0,00;Cartão de crédito
+ITEM-0038;VENDA-019;22/01/2026;Mochila escolar;Mochilas;4;129,90;0,00;Cartão de crédito
+ITEM-0039;VENDA-020;21/02/2026;Caderno pequeno;Cadernos;1;12,90;0,00;Cartão de crédito
+ITEM-0040;VENDA-020;21/02/2026;Papel A4 500 folhas;Papéis;1;32,90;0,00;Cartão de crédito
+ITEM-0041;VENDA-021;09/01/2026;Papel A4 500 folhas;Papéis;4;32,90;0,00;Cartão de crédito
+ITEM-0042;VENDA-021;09/01/2026;Papel A4 500 folhas;Papéis;4;32,90;0,00;Cartão de crédito
+ITEM-0043;VENDA-022;06/03/2026;Caneta preta;Escrita;5;3,50;0,00;Cartão de débito
+ITEM-0044;VENDA-022;06/03/2026;Borracha branca;Acessórios;4;2,50;2,00;Cartão de débito
+ITEM-0045;VENDA-023;03/01/2026;Mochila escolar;Mochilas;4;129,90;0,00;Cartão de débito
+ITEM-0046;VENDA-023;03/01/2026;Borracha branca;Acessórios;5;2,50;0,00;Cartão de débito
+ITEM-0047;VENDA-024;13/02/2026;Mochila escolar;Mochilas;5;129,90;0,00;Cartão de crédito
+ITEM-0048;VENDA-024;13/02/2026;Caneta preta;Escrita;1;3,50;0,00;Cartão de crédito
+ITEM-0049;VENDA-025;21/01/2026;Régua 30 cm;Acessórios;2;5,90;0,00;Cartão de débito
+ITEM-0050;VENDA-025;21/01/2026;Caderno pequeno;Cadernos;5;12,90;2,00;Cartão de débito
+ITEM-0051;VENDA-026;19/03/2026;Borracha branca;Acessórios;3;2,50;0,00;Cartão de débito
+ITEM-0052;VENDA-026;19/03/2026;Lápis grafite;Escrita;3;2,00;0,00;Cartão de débito
+ITEM-0053;VENDA-027;22/01/2026;Caderno pequeno;Cadernos;1;12,90;1,00;Pix
+ITEM-0054;VENDA-027;22/01/2026;Mochila escolar;Mochilas;2;129,90;0,00;Pix
+ITEM-0055;VENDA-028;10/03/2026;Papel A4 500 folhas;Papéis;5;32,90;2,00;Dinheiro
+ITEM-0056;VENDA-028;10/03/2026;Lápis grafite;Escrita;5;2,00;0,00;Dinheiro
+ITEM-0057;VENDA-029;10/01/2026;Borracha branca;Acessórios;4;2,50;1,00;Dinheiro
+ITEM-0058;VENDA-029;10/01/2026;Estojo escolar;Acessórios;5;19,90;0,00;Dinheiro
+ITEM-0059;VENDA-030;09/02/2026;Borracha branca;Acessórios;4;2,50;1,00;Dinheiro
+ITEM-0060;VENDA-030;09/02/2026;Caneta azul;Escrita;2;3,50;1,00;Dinheiro
+ITEM-0061;VENDA-031;15/03/2026;Régua 30 cm;Acessórios;3;5,90;2,00;Dinheiro
+ITEM-0062;VENDA-031;15/03/2026;Borracha branca;Acessórios;2;2,50;2,00;Dinheiro
+ITEM-0063;VENDA-032;12/03/2026;Estojo escolar;Acessórios;2;19,90;0,00;Cartão de crédito
+ITEM-0064;VENDA-032;12/03/2026;Caderno pequeno;Cadernos;3;12,90;0,00;Cartão de crédito
+ITEM-0065;VENDA-033;20/02/2026;Caderno universitário;Cadernos;5;25,90;0,00;Pix
+ITEM-0066;VENDA-033;20/02/2026;Borracha branca;Acessórios;2;2,50;0,00;Pix
+ITEM-0067;VENDA-034;11/01/2026;Caderno universitário;Cadernos;3;25,90;2,00;Cartão de crédito
+ITEM-0068;VENDA-034;11/01/2026;Estojo escolar;Acessórios;2;19,90;2,00;Cartão de crédito
+ITEM-0069;VENDA-035;11/01/2026;Mochila escolar;Mochilas;5;129,90;2,00;Cartão de débito
+ITEM-0070;VENDA-035;11/01/2026;Estojo escolar;Acessórios;5;19,90;2,00;Cartão de débito
+ITEM-0071;VENDA-036;12/03/2026;Caneta azul;Escrita;3;3,50;0,00;Pix
+ITEM-0072;VENDA-036;12/03/2026;Caderno pequeno;Cadernos;5;12,90;2,00;Pix
+ITEM-0073;VENDA-037;27/02/2026;Caderno pequeno;Cadernos;5;12,90;2,00;Dinheiro
+ITEM-0074;VENDA-037;27/02/2026;Caderno universitário;Cadernos;2;25,90;0,00;Dinheiro
+ITEM-0075;VENDA-038;06/03/2026;Caneta preta;Escrita;1;3,50;2,00;Cartão de crédito
+ITEM-0076;VENDA-038;06/03/2026;Mochila escolar;Mochilas;5;129,90;0,00;Cartão de crédito
+ITEM-0077;VENDA-039;21/01/2026;Mochila escolar;Mochilas;2;129,90;1,00;Dinheiro
+ITEM-0078;VENDA-039;21/01/2026;Mochila escolar;Mochilas;5;129,90;0,00;Dinheiro
+ITEM-0079;VENDA-040;08/02/2026;Caneta preta;Escrita;5;3,50;0,00;Cartão de crédito
+ITEM-0080;VENDA-040;08/02/2026;Caderno universitário;Cadernos;2;25,90;2,00;Cartão de crédito
+ITEM-0081;VENDA-041;01/01/2026;Lápis grafite;Escrita;5;2,00;0,00;Pix
+ITEM-0082;VENDA-041;01/01/2026;Caderno pequeno;Cadernos;1;12,90;2,00;Pix
+ITEM-0083;VENDA-042;21/01/2026;Caneta preta;Escrita;5;3,50;0,00;Cartão de débito
+ITEM-0084;VENDA-042;21/01/2026;Caderno universitário;Cadernos;1;25,90;0,00;Cartão de débito
+ITEM-0085;VENDA-043;28/02/2026;Caneta preta;Escrita;1;3,50;0,00;Cartão de débito
+ITEM-0086;VENDA-043;28/02/2026;Caneta preta;Escrita;4;3,50;2,00;Cartão de débito
+ITEM-0087;VENDA-044;03/03/2026;Régua 30 cm;Acessórios;1;5,90;2,00;Pix
+ITEM-0088;VENDA-044;03/03/2026;Lápis grafite;Escrita;5;2,00;2,00;Pix
+ITEM-0089;VENDA-045;06/01/2026;Papel A4 500 folhas;Papéis;3;32,90;0,00;Cartão de débito
+ITEM-0090;VENDA-045;06/01/2026;Caneta azul;Escrita;5;3,50;0,00;Cartão de débito
+ITEM-0091;VENDA-046;16/02/2026;Caderno pequeno;Cadernos;3;12,90;0,00;Pix
+ITEM-0092;VENDA-046;16/02/2026;Borracha branca;Acessórios;1;2,50;1,00;Pix
+ITEM-0093;VENDA-047;08/01/2026;Caderno pequeno;Cadernos;1;12,90;1,00;Cartão de débito
+ITEM-0094;VENDA-047;08/01/2026;Caderno universitário;Cadernos;1;25,90;0,00;Cartão de débito
+ITEM-0095;VENDA-048;21/01/2026;Estojo escolar;Acessórios;5;19,90;0,00;Cartão de crédito
+ITEM-0096;VENDA-048;21/01/2026;Papel A4 500 folhas;Papéis;3;32,90;0,00;Cartão de crédito
+ITEM-0097;VENDA-049;11/03/2026;Papel A4 500 folhas;Papéis;2;32,90;0,00;Cartão de débito
+ITEM-0098;VENDA-049;11/03/2026;Estojo escolar;Acessórios;5;19,90;0,00;Cartão de débito
+ITEM-0099;VENDA-050;25/01/2026;Caneta preta;Escrita;5;3,50;2,00;Cartão de débito
+ITEM-0100;VENDA-050;25/01/2026;Caderno pequeno;Cadernos;2;12,90;1,00;Cartão de débito
+ITEM-0101;VENDA-051;04/02/2026;Papel A4 500 folhas;Papéis;2;32,90;0,00;Pix
+ITEM-0102;VENDA-051;04/02/2026;Lápis grafite;Escrita;3;2,00;2,00;Pix
+ITEM-0103;VENDA-052;04/02/2026;Mochila escolar;Mochilas;2;129,90;0,00;Cartão de débito
+ITEM-0104;VENDA-052;04/02/2026;Régua 30 cm;Acessórios;5;5,90;0,00;Cartão de débito
+ITEM-0105;VENDA-053;14/02/2026;Estojo escolar;Acessórios;5;19,90;0,00;Cartão de crédito
+ITEM-0106;VENDA-053;14/02/2026;Régua 30 cm;Acessórios;2;5,90;0,00;Cartão de crédito
+ITEM-0107;VENDA-054;11/03/2026;Caderno pequeno;Cadernos;4;12,90;0,00;Cartão de crédito
+ITEM-0108;VENDA-054;11/03/2026;Caneta preta;Escrita;4;3,50;2,00;Cartão de crédito
+ITEM-0109;VENDA-055;02/01/2026;Borracha branca;Acessórios;3;2,50;1,00;Pix
+ITEM-0110;VENDA-055;02/01/2026;Borracha branca;Acessórios;4;2,50;0,00;Pix
+ITEM-0111;VENDA-056;07/03/2026;Caderno pequeno;Cadernos;4;12,90;0,00;Cartão de crédito
+ITEM-0112;VENDA-056;07/03/2026;Régua 30 cm;Acessórios;4;5,90;1,00;Cartão de crédito
+ITEM-0113;VENDA-057;10/02/2026;Mochila escolar;Mochilas;2;129,90;1,00;Cartão de débito
+ITEM-0114;VENDA-057;10/02/2026;Lápis grafite;Escrita;1;2,00;2,00;Cartão de débito
+ITEM-0115;VENDA-058;19/01/2026;Caderno universitário;Cadernos;2;25,90;0,00;Cartão de crédito
+ITEM-0116;VENDA-058;19/01/2026;Caneta azul;Escrita;3;3,50;2,00;Cartão de crédito
+ITEM-0117;VENDA-059;13/03/2026;Lápis grafite;Escrita;2;2,00;1,00;Cartão de crédito
+ITEM-0118;VENDA-059;13/03/2026;Caderno universitário;Cadernos;1;25,90;1,00;Cartão de crédito
+ITEM-0119;VENDA-060;30/03/2026;Mochila escolar;Mochilas;1;129,90;0,00;Cartão de débito
+ITEM-0120;VENDA-060;30/03/2026;Caneta preta;Escrita;5;3,50;2,00;Cartão de débito
+ITEM-0121;VENDA-061;17/03/2026;Estojo escolar;Acessórios;3;19,90;1,00;Pix
+ITEM-0122;VENDA-061;17/03/2026;Estojo escolar;Acessórios;5;19,90;0,00;Pix
+ITEM-0123;VENDA-062;28/01/2026;Papel A4 500 folhas;Papéis;5;32,90;1,00;Dinheiro
+ITEM-0124;VENDA-062;28/01/2026;Caneta preta;Escrita;3;3,50;0,00;Dinheiro
+ITEM-0125;VENDA-063;27/03/2026;Estojo escolar;Acessórios;3;19,90;0,00;Dinheiro
+ITEM-0126;VENDA-063;27/03/2026;Régua 30 cm;Acessórios;4;5,90;0,00;Dinheiro
+ITEM-0127;VENDA-064;24/01/2026;Caneta preta;Escrita;4;3,50;2,00;Cartão de débito
+ITEM-0128;VENDA-064;24/01/2026;Mochila escolar;Mochilas;2;129,90;1,00;Cartão de débito
+ITEM-0129;VENDA-065;27/02/2026;Caneta azul;Escrita;5;3,50;0,00;Dinheiro
+ITEM-0130;VENDA-065;27/02/2026;Caderno universitário;Cadernos;5;25,90;0,00;Dinheiro
+ITEM-0131;VENDA-066;06/02/2026;Caderno pequeno;Cadernos;5;12,90;0,00;Pix
+ITEM-0132;VENDA-066;06/02/2026;Borracha branca;Acessórios;4;2,50;1,00;Pix
+ITEM-0133;VENDA-067;26/03/2026;Lápis grafite;Escrita;3;2,00;0,00;Cartão de crédito
+ITEM-0134;VENDA-067;26/03/2026;Caderno universitário;Cadernos;4;25,90;0,00;Cartão de crédito
+ITEM-0135;VENDA-068;16/01/2026;Régua 30 cm;Acessórios;5;5,90;0,00;Pix
+ITEM-0136;VENDA-068;16/01/2026;Caderno universitário;Cadernos;5;25,90;0,00;Pix
+ITEM-0137;VENDA-069;01/03/2026;Caderno pequeno;Cadernos;4;12,90;0,00;Cartão de crédito
+ITEM-0138;VENDA-069;01/03/2026;Borracha branca;Acessórios;3;2,50;1,00;Cartão de crédito
+ITEM-0139;VENDA-070;22/01/2026;Estojo escolar;Acessórios;2;19,90;0,00;Pix
+ITEM-0140;VENDA-070;22/01/2026;Lápis grafite;Escrita;1;2,00;2,00;Pix
+ITEM-0141;VENDA-071;07/02/2026;Caneta preta;Escrita;3;3,50;0,00;Dinheiro
+ITEM-0142;VENDA-071;07/02/2026;Lápis grafite;Escrita;4;2,00;0,00;Dinheiro
+ITEM-0143;VENDA-072;04/01/2026;Caneta azul;Escrita;2;3,50;1,00;Cartão de crédito
+ITEM-0144;VENDA-072;04/01/2026;Caneta preta;Escrita;2;3,50;0,00;Cartão de crédito
+ITEM-0145;VENDA-073;01/03/2026;Papel A4 500 folhas;Papéis;1;32,90;0,00;Pix
+ITEM-0146;VENDA-073;01/03/2026;Caneta azul;Escrita;3;3,50;0,00;Pix
+ITEM-0147;VENDA-074;26/01/2026;Caderno universitário;Cadernos;2;25,90;2,00;Cartão de crédito
+ITEM-0148;VENDA-074;26/01/2026;Borracha branca;Acessórios;5;2,50;0,00;Cartão de crédito
+ITEM-0149;VENDA-075;27/02/2026;Caneta azul;Escrita;1;3,50;0,00;Cartão de crédito
+ITEM-0150;VENDA-075;27/02/2026;Lápis grafite;Escrita;2;2,00;0,00;Cartão de crédito
+ITEM-0151;VENDA-076;24/02/2026;Lápis grafite;Escrita;3;2,00;1,00;Pix
+ITEM-0152;VENDA-076;24/02/2026;Lápis grafite;Escrita;3;2,00;0,00;Pix
+ITEM-0153;VENDA-077;20/01/2026;Régua 30 cm;Acessórios;5;5,90;2,00;Cartão de crédito
+ITEM-0154;VENDA-077;20/01/2026;Lápis grafite;Escrita;3;2,00;1,00;Cartão de crédito
+ITEM-0155;VENDA-078;09/02/2026;Borracha branca;Acessórios;4;2,50;0,00;Pix
+ITEM-0156;VENDA-078;09/02/2026;Caneta preta;Escrita;1;3,50;0,00;Pix
+ITEM-0157;VENDA-079;19/03/2026;Caneta preta;Escrita;1;3,50;0,00;Pix
+ITEM-0158;VENDA-079;19/03/2026;Caneta preta;Escrita;4;3,50;1,00;Pix
+ITEM-0159;VENDA-080;12/03/2026;Lápis grafite;Escrita;4;2,00;1,00;Cartão de débito
+ITEM-0160;VENDA-080;12/03/2026;Mochila escolar;Mochilas;3;129,90;0,00;Cartão de débito
+ITEM-0161;VENDA-081;06/01/2026;Mochila escolar;Mochilas;5;129,90;0,00;Pix
+ITEM-0162;VENDA-081;06/01/2026;Caneta preta;Escrita;4;3,50;0,00;Pix
+ITEM-0163;VENDA-082;25/01/2026;Estojo escolar;Acessórios;5;19,90;2,00;Pix
+ITEM-0164;VENDA-082;25/01/2026;Mochila escolar;Mochilas;1;129,90;0,00;Pix
+ITEM-0165;VENDA-083;15/03/2026;Mochila escolar;Mochilas;5;129,90;0,00;Cartão de crédito
+ITEM-0166;VENDA-083;15/03/2026;Caneta azul;Escrita;4;3,50;1,00;Cartão de crédito
+ITEM-0167;VENDA-084;11/01/2026;Mochila escolar;Mochilas;4;129,90;0,00;Cartão de crédito
+ITEM-0168;VENDA-084;11/01/2026;Papel A4 500 folhas;Papéis;5;32,90;0,00;Cartão de crédito
+ITEM-0169;VENDA-085;08/01/2026;Papel A4 500 folhas;Papéis;3;32,90;2,00;Cartão de débito
+ITEM-0170;VENDA-085;08/01/2026;Borracha branca;Acessórios;4;2,50;0,00;Cartão de débito
+ITEM-0171;VENDA-086;13/02/2026;Estojo escolar;Acessórios;3;19,90;0,00;Cartão de crédito
+ITEM-0172;VENDA-086;13/02/2026;Mochila escolar;Mochilas;5;129,90;0,00;Cartão de crédito
+ITEM-0173;VENDA-087;26/01/2026;Estojo escolar;Acessórios;1;19,90;0,00;Cartão de crédito
+ITEM-0174;VENDA-087;26/01/2026;Caneta preta;Escrita;3;3,50;0,00;Cartão de crédito
+ITEM-0175;VENDA-088;28/03/2026;Caderno pequeno;Cadernos;1;12,90;0,00;Dinheiro
+ITEM-0176;VENDA-088;28/03/2026;Régua 30 cm;Acessórios;2;5,90;0,00;Dinheiro
+ITEM-0177;VENDA-089;21/02/2026;Caderno pequeno;Cadernos;1;12,90;2,00;Cartão de crédito
+ITEM-0178;VENDA-089;21/02/2026;Caderno pequeno;Cadernos;1;12,90;2,00;Cartão de crédito
+ITEM-0179;VENDA-090;26/02/2026;Régua 30 cm;Acessórios;4;5,90;0,00;Dinheiro
+ITEM-0180;VENDA-090;26/02/2026;Papel A4 500 folhas;Papéis;5;32,90;0,00;Dinheiro
+ITEM-0181;VENDA-091;06/01/2026;Estojo escolar;Acessórios;4;19,90;0,00;Cartão de débito
+ITEM-0182;VENDA-091;06/01/2026;Caneta preta;Escrita;5;3,50;1,00;Cartão de débito
+ITEM-0183;VENDA-092;06/01/2026;Lápis grafite;Escrita;2;2,00;1,00;Pix
+ITEM-0184;VENDA-092;06/01/2026;Régua 30 cm;Acessórios;4;5,90;0,00;Pix
+ITEM-0185;VENDA-093;14/03/2026;Régua 30 cm;Acessórios;3;5,90;1,00;Cartão de débito
+ITEM-0186;VENDA-093;14/03/2026;Régua 30 cm;Acessórios;4;5,90;0,00;Cartão de débito
+ITEM-0187;VENDA-094;10/01/2026;Borracha branca;Acessórios;2;2,50;1,00;Cartão de débito
+ITEM-0188;VENDA-094;10/01/2026;Caderno pequeno;Cadernos;1;12,90;0,00;Cartão de débito
+ITEM-0189;VENDA-095;05/02/2026;Borracha branca;Acessórios;1;2,50;0,00;Cartão de crédito
+ITEM-0190;VENDA-095;05/02/2026;Lápis grafite;Escrita;1;2,00;1,00;Cartão de crédito
+ITEM-0191;VENDA-096;06/02/2026;Mochila escolar;Mochilas;2;129,90;0,00;Cartão de crédito
+ITEM-0192;VENDA-096;06/02/2026;Caderno pequeno;Cadernos;5;12,90;2,00;Cartão de crédito
+ITEM-0193;VENDA-097;17/01/2026;Mochila escolar;Mochilas;3;129,90;0,00;Cartão de crédito
+ITEM-0194;VENDA-097;17/01/2026;Estojo escolar;Acessórios;4;19,90;0,00;Cartão de crédito
+ITEM-0195;VENDA-098;17/01/2026;Lápis grafite;Escrita;2;2,00;1,00;Cartão de débito
+ITEM-0196;VENDA-098;17/01/2026;Caderno universitário;Cadernos;5;25,90;1,00;Cartão de débito
+ITEM-0197;VENDA-099;19/01/2026;Caderno universitário;Cadernos;1;25,90;2,00;Dinheiro
+ITEM-0198;VENDA-099;19/01/2026;Régua 30 cm;Acessórios;3;5,90;0,00;Dinheiro
+ITEM-0199;VENDA-100;23/03/2026;Caneta azul;Escrita;2;3,50;0,00;Cartão de débito
+ITEM-0200;VENDA-100;23/03/2026;Papel A4 500 folhas;Papéis;5;32,90;0,00;Cartão de débito
+ITEM-0201;VENDA-101;26/01/2026;Caneta azul;Escrita;3;3,50;1,00;Dinheiro
+ITEM-0202;VENDA-101;26/01/2026;Caneta preta;Escrita;2;3,50;1,00;Dinheiro
+ITEM-0203;VENDA-102;16/03/2026;Papel A4 500 folhas;Papéis;3;32,90;1,00;Cartão de débito
+ITEM-0204;VENDA-102;16/03/2026;Caneta preta;Escrita;1;3,50;2,00;Cartão de débito
+ITEM-0205;VENDA-103;14/02/2026;Régua 30 cm;Acessórios;2;5,90;0,00;Pix
+ITEM-0206;VENDA-103;14/02/2026;Caneta preta;Escrita;1;3,50;0,00;Pix
+ITEM-0207;VENDA-104;02/01/2026;Régua 30 cm;Acessórios;3;5,90;0,00;Dinheiro
+ITEM-0208;VENDA-104;02/01/2026;Caneta azul;Escrita;4;3,50;0,00;Dinheiro
+ITEM-0209;VENDA-105;04/03/2026;Lápis grafite;Escrita;2;2,00;0,00;Dinheiro
+ITEM-0210;VENDA-105;04/03/2026;Caderno universitário;Cadernos;3;25,90;0,00;Dinheiro
+ITEM-0211;VENDA-106;09/01/2026;Borracha branca;Acessórios;3;2,50;0,00;Pix
+ITEM-0212;VENDA-106;09/01/2026;Estojo escolar;Acessórios;1;19,90;1,00;Pix
+ITEM-0213;VENDA-107;18/03/2026;Caneta preta;Escrita;3;3,50;0,00;Cartão de débito
+ITEM-0214;VENDA-107;18/03/2026;Caderno pequeno;Cadernos;5;12,90;0,00;Cartão de débito
+ITEM-0215;VENDA-108;31/01/2026;Borracha branca;Acessórios;4;2,50;2,00;Cartão de débito
+ITEM-0216;VENDA-108;31/01/2026;Caderno universitário;Cadernos;2;25,90;2,00;Cartão de débito
+ITEM-0217;VENDA-109;18/03/2026;Lápis grafite;Escrita;4;2,00;2,00;Pix
+ITEM-0218;VENDA-109;18/03/2026;Lápis grafite;Escrita;2;2,00;1,00;Pix
+ITEM-0219;VENDA-110;21/01/2026;Caderno universitário;Cadernos;3;25,90;1,00;Cartão de crédito
+ITEM-0220;VENDA-110;21/01/2026;Caderno pequeno;Cadernos;2;12,90;0,00;Cartão de crédito
+ITEM-0221;VENDA-111;17/01/2026;Mochila escolar;Mochilas;4;129,90;1,00;Cartão de crédito
+ITEM-0222;VENDA-111;17/01/2026;Estojo escolar;Acessórios;4;19,90;0,00;Cartão de crédito
+ITEM-0223;VENDA-112;16/01/2026;Lápis grafite;Escrita;2;2,00;2,00;Cartão de débito
+ITEM-0224;VENDA-112;16/01/2026;Caneta preta;Escrita;5;3,50;0,00;Cartão de débito
+ITEM-0225;VENDA-113;02/01/2026;Papel A4 500 folhas;Papéis;5;32,90;0,00;Pix
+ITEM-0226;VENDA-113;02/01/2026;Mochila escolar;Mochilas;2;129,90;2,00;Pix
+ITEM-0227;VENDA-114;28/03/2026;Borracha branca;Acessórios;1;2,50;1,00;Pix
+ITEM-0228;VENDA-114;28/03/2026;Caderno universitário;Cadernos;4;25,90;1,00;Pix
+ITEM-0229;VENDA-115;12/01/2026;Mochila escolar;Mochilas;3;129,90;0,00;Pix
+ITEM-0230;VENDA-115;12/01/2026;Caneta preta;Escrita;3;3,50;1,00;Pix
+ITEM-0231;VENDA-116;26/02/2026;Mochila escolar;Mochilas;2;129,90;2,00;Pix
+ITEM-0232;VENDA-116;26/02/2026;Mochila escolar;Mochilas;5;129,90;0,00;Pix
+ITEM-0233;VENDA-117;29/01/2026;Borracha branca;Acessórios;5;2,50;0,00;Pix
+ITEM-0234;VENDA-117;29/01/2026;Borracha branca;Acessórios;4;2,50;0,00;Pix
+ITEM-0235;VENDA-118;22/03/2026;Mochila escolar;Mochilas;3;129,90;0,00;Cartão de crédito
+ITEM-0236;VENDA-118;22/03/2026;Borracha branca;Acessórios;3;2,50;0,00;Cartão de crédito
+ITEM-0237;VENDA-119;14/01/2026;Caneta preta;Escrita;4;3,50;1,00;Pix
+ITEM-0238;VENDA-119;14/01/2026;Caderno universitário;Cadernos;2;25,90;0,00;Pix
+ITEM-0239;VENDA-120;06/01/2026;Mochila escolar;Mochilas;5;129,90;0,00;Dinheiro
+ITEM-0240;VENDA-120;06/01/2026;Caderno pequeno;Cadernos;5;12,90;0,00;Dinheiro
+ITEM-0241;VENDA-121;01/01/2026;Caderno universitário;Cadernos;4;25,90;0,00;Dinheiro
+ITEM-0242;VENDA-121;01/01/2026;Mochila escolar;Mochilas;4;129,90;0,00;Dinheiro
+ITEM-0243;VENDA-122;25/03/2026;Estojo escolar;Acessórios;5;19,90;0,00;Dinheiro
+ITEM-0244;VENDA-122;25/03/2026;Caderno universitário;Cadernos;5;25,90;1,00;Dinheiro
+ITEM-0245;VENDA-123;15/02/2026;Régua 30 cm;Acessórios;1;5,90;0,00;Dinheiro
+ITEM-0246;VENDA-123;15/02/2026;Régua 30 cm;Acessórios;4;5,90;2,00;Dinheiro
+ITEM-0247;VENDA-124;16/03/2026;Borracha branca;Acessórios;3;2,50;2,00;Dinheiro
+ITEM-0248;VENDA-124;16/03/2026;Estojo escolar;Acessórios;1;19,90;0,00;Dinheiro
+ITEM-0249;VENDA-125;15/03/2026;Borracha branca;Acessórios;5;2,50;0,00;Cartão de crédito
+ITEM-0250;VENDA-125;15/03/2026;Caneta preta;Escrita;5;3,50;2,00;Cartão de crédito
+ITEM-0251;VENDA-126;11/01/2026;Caderno pequeno;Cadernos;4;12,90;0,00;Cartão de crédito
+ITEM-0252;VENDA-126;11/01/2026;Lápis grafite;Escrita;3;2,00;0,00;Cartão de crédito
+ITEM-0253;VENDA-127;15/01/2026;Caneta azul;Escrita;3;3,50;0,00;Cartão de débito
+ITEM-0254;VENDA-127;15/01/2026;Mochila escolar;Mochilas;4;129,90;2,00;Cartão de débito
+ITEM-0255;VENDA-128;28/03/2026;Caneta preta;Escrita;1;3,50;0,00;Cartão de crédito
+ITEM-0256;VENDA-128;28/03/2026;Estojo escolar;Acessórios;5;19,90;1,00;Cartão de crédito
+ITEM-0257;VENDA-129;13/03/2026;Caderno universitário;Cadernos;2;25,90;0,00;Cartão de débito
+ITEM-0258;VENDA-129;13/03/2026;Borracha branca;Acessórios;2;2,50;0,00;Cartão de débito
+ITEM-0259;VENDA-130;27/03/2026;Régua 30 cm;Acessórios;2;5,90;2,00;Cartão de débito
+ITEM-0260;VENDA-130;27/03/2026;Estojo escolar;Acessórios;1;19,90;1,00;Cartão de débito
+ITEM-0261;VENDA-131;31/03/2026;Lápis grafite;Escrita;5;2,00;0,00;Cartão de crédito
+ITEM-0262;VENDA-131;31/03/2026;Mochila escolar;Mochilas;4;129,90;0,00;Cartão de crédito
+ITEM-0263;VENDA-132;13/01/2026;Papel A4 500 folhas;Papéis;2;32,90;1,00;Cartão de débito
+ITEM-0264;VENDA-132;13/01/2026;Régua 30 cm;Acessórios;4;5,90;1,00;Cartão de débito
+ITEM-0265;VENDA-133;22/03/2026;Caneta preta;Escrita;1;3,50;2,00;Pix
+ITEM-0266;VENDA-133;22/03/2026;Régua 30 cm;Acessórios;5;5,90;0,00;Pix
+ITEM-0267;VENDA-134;03/01/2026;Régua 30 cm;Acessórios;4;5,90;0,00;Dinheiro
+ITEM-0268;VENDA-134;03/01/2026;Estojo escolar;Acessórios;3;19,90;0,00;Dinheiro
+ITEM-0269;VENDA-135;21/03/2026;Lápis grafite;Escrita;5;2,00;1,00;Pix
+ITEM-0270;VENDA-135;21/03/2026;Papel A4 500 folhas;Papéis;3;32,90;0,00;Pix
+ITEM-0271;VENDA-136;17/01/2026;Estojo escolar;Acessórios;5;19,90;0,00;Cartão de crédito
+ITEM-0272;VENDA-136;17/01/2026;Régua 30 cm;Acessórios;3;5,90;0,00;Cartão de crédito
+ITEM-0273;VENDA-137;10/02/2026;Caderno pequeno;Cadernos;2;12,90;1,00;Pix
+ITEM-0274;VENDA-137;10/02/2026;Caneta preta;Escrita;5;3,50;0,00;Pix
+ITEM-0275;VENDA-138;04/02/2026;Caderno pequeno;Cadernos;2;12,90;1,00;Pix
+ITEM-0276;VENDA-138;04/02/2026;Borracha branca;Acessórios;5;2,50;0,00;Pix
+ITEM-0277;VENDA-139;21/03/2026;Estojo escolar;Acessórios;1;19,90;0,00;Pix
+ITEM-0278;VENDA-139;21/03/2026;Borracha branca;Acessórios;2;2,50;2,00;Pix
+ITEM-0279;VENDA-140;25/02/2026;Régua 30 cm;Acessórios;5;5,90;0,00;Dinheiro
+ITEM-0280;VENDA-140;25/02/2026;Caneta azul;Escrita;2;3,50;1,00;Dinheiro
+ITEM-0281;VENDA-141;22/02/2026;Caderno universitário;Cadernos;3;25,90;2,00;Cartão de débito
+ITEM-0282;VENDA-141;22/02/2026;Régua 30 cm;Acessórios;5;5,90;0,00;Cartão de débito
+ITEM-0283;VENDA-142;03/02/2026;Caderno pequeno;Cadernos;4;12,90;1,00;Cartão de crédito
+ITEM-0284;VENDA-142;03/02/2026;Lápis grafite;Escrita;1;2,00;2,00;Cartão de crédito
+ITEM-0285;VENDA-143;22/03/2026;Mochila escolar;Mochilas;3;129,90;1,00;Cartão de crédito
+ITEM-0286;VENDA-143;22/03/2026;Mochila escolar;Mochilas;3;129,90;1,00;Cartão de crédito
+ITEM-0287;VENDA-144;29/03/2026;Caneta azul;Escrita;3;3,50;1,00;Cartão de crédito
+ITEM-0288;VENDA-144;29/03/2026;Mochila escolar;Mochilas;2;129,90;0,00;Cartão de crédito
+ITEM-0289;VENDA-145;01/02/2026;Lápis grafite;Escrita;3;2,00;1,00;Cartão de débito
+ITEM-0290;VENDA-145;01/02/2026;Estojo escolar;Acessórios;3;19,90;0,00;Cartão de débito
+ITEM-0291;VENDA-146;14/03/2026;Caneta preta;Escrita;3;3,50;0,00;Cartão de crédito
+ITEM-0292;VENDA-146;14/03/2026;Caneta azul;Escrita;2;3,50;1,00;Cartão de crédito
+ITEM-0293;VENDA-147;15/03/2026;Papel A4 500 folhas;Papéis;2;32,90;0,00;Dinheiro
+ITEM-0294;VENDA-147;15/03/2026;Borracha branca;Acessórios;2;2,50;0,00;Dinheiro
+ITEM-0295;VENDA-148;05/01/2026;Caderno pequeno;Cadernos;4;12,90;0,00;Pix
+ITEM-0296;VENDA-148;05/01/2026;Caneta azul;Escrita;3;3,50;0,00;Pix
+ITEM-0297;VENDA-149;07/01/2026;Papel A4 500 folhas;Papéis;1;32,90;2,00;Cartão de crédito
+ITEM-0298;VENDA-149;07/01/2026;Papel A4 500 folhas;Papéis;4;32,90;0,00;Cartão de crédito
+ITEM-0299;VENDA-150;24/02/2026;Estojo escolar;Acessórios;1;19,90;0,00;Pix
+ITEM-0300;VENDA-150;24/02/2026;Caderno universitário;Cadernos;1;25,90;0,00;Pix

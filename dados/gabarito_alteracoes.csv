@@ -1,0 +1,144 @@
+﻿linha_csv;id_item;campo;tipo;antes;depois
+2;ITEM-0001;quantidade;campo_essencial_vazio;1;
+3;ITEM-0002;quantidade;campo_essencial_vazio;5;
+4;ITEM-0003;quantidade;campo_essencial_vazio;2;
+5;ITEM-0004;quantidade;campo_essencial_vazio;5;
+6;ITEM-0005;quantidade;quantidade_negativa;1;-2
+7;ITEM-0006;quantidade;quantidade_negativa;1;-2
+8;ITEM-0007;quantidade;quantidade_negativa;1;-2
+9;ITEM-0008;quantidade;quantidade_negativa;1;-2
+10;ITEM-0009;desconto;desconto_superior_ao_valor;2,00;9999,00
+11;ITEM-0010;desconto;desconto_superior_ao_valor;0,00;9999,00
+12;ITEM-0011;desconto;desconto_superior_ao_valor;2,00;9999,00
+13;ITEM-0012;desconto;desconto_superior_ao_valor;1,00;9999,00
+32;ITEM-0031;data;formato_alternativo;19/01/2026;2026-01-19
+33;ITEM-0032;data;formato_alternativo;19/01/2026;2026-01-19
+34;ITEM-0033;data;formato_alternativo;25/02/2026;2026-02-25
+35;ITEM-0034;data;formato_alternativo;25/02/2026;2026-02-25
+36;ITEM-0035;data;formato_alternativo;28/03/2026;2026-03-28
+37;ITEM-0036;data;formato_alternativo;28/03/2026;2026-03-28
+38;ITEM-0037;data;formato_alternativo;22/01/2026;2026-01-22
+39;ITEM-0038;data;formato_alternativo;22/01/2026;2026-01-22
+40;ITEM-0039;data;formato_alternativo;21/02/2026;2026-02-21
+41;ITEM-0040;data;formato_alternativo;21/02/2026;2026-02-21
+42;ITEM-0041;data;formato_alternativo;09/01/2026;2026-01-09
+43;ITEM-0042;data;formato_alternativo;09/01/2026;2026-01-09
+44;ITEM-0043;data;formato_alternativo;06/03/2026;2026-03-06
+45;ITEM-0044;data;formato_alternativo;06/03/2026;2026-03-06
+46;ITEM-0045;data;formato_alternativo;03/01/2026;2026-01-03
+47;ITEM-0046;data;formato_alternativo;03/01/2026;2026-01-03
+48;ITEM-0047;data;formato_alternativo;13/02/2026;2026-02-13
+49;ITEM-0048;data;formato_alternativo;13/02/2026;2026-02-13
+50;ITEM-0049;data;formato_alternativo;21/01/2026;2026-01-21
+51;ITEM-0050;data;formato_alternativo;21/01/2026;2026-01-21
+52;ITEM-0051;data;formato_alternativo;19/03/2026;2026-03-19
+53;ITEM-0052;data;formato_alternativo;19/03/2026;2026-03-19
+54;ITEM-0053;data;formato_alternativo;22/01/2026;2026-01-22
+55;ITEM-0054;data;formato_alternativo;22/01/2026;2026-01-22
+56;ITEM-0055;data;formato_alternativo;10/03/2026;2026-03-10
+57;ITEM-0056;data;formato_alternativo;10/03/2026;2026-03-10
+58;ITEM-0057;data;formato_alternativo;10/01/2026;2026-01-10
+59;ITEM-0058;data;formato_alternativo;10/01/2026;2026-01-10
+60;ITEM-0059;data;formato_alternativo;09/02/2026;2026-02-09
+61;ITEM-0060;data;formato_alternativo;09/02/2026;2026-02-09
+62;ITEM-0061;preco_unitario;simbolo_monetario;5,90;R$ 5,90
+63;ITEM-0062;preco_unitario;simbolo_monetario;2,50;R$ 2,50
+64;ITEM-0063;preco_unitario;simbolo_monetario;19,90;R$ 19,90
+65;ITEM-0064;preco_unitario;simbolo_monetario;12,90;R$ 12,90
+66;ITEM-0065;preco_unitario;simbolo_monetario;25,90;R$ 25,90
+67;ITEM-0066;preco_unitario;simbolo_monetario;2,50;R$ 2,50
+68;ITEM-0067;preco_unitario;simbolo_monetario;25,90;R$ 25,90
+69;ITEM-0068;preco_unitario;simbolo_monetario;19,90;R$ 19,90
+70;ITEM-0069;preco_unitario;simbolo_monetario;129,90;R$ 129,90
+71;ITEM-0070;preco_unitario;simbolo_monetario;19,90;R$ 19,90
+72;ITEM-0071;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+73;ITEM-0072;preco_unitario;simbolo_monetario;12,90;R$ 12,90
+74;ITEM-0073;preco_unitario;simbolo_monetario;12,90;R$ 12,90
+75;ITEM-0074;preco_unitario;simbolo_monetario;25,90;R$ 25,90
+76;ITEM-0075;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+77;ITEM-0076;preco_unitario;simbolo_monetario;129,90;R$ 129,90
+78;ITEM-0077;preco_unitario;simbolo_monetario;129,90;R$ 129,90
+79;ITEM-0078;preco_unitario;simbolo_monetario;129,90;R$ 129,90
+80;ITEM-0079;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+81;ITEM-0080;preco_unitario;simbolo_monetario;25,90;R$ 25,90
+82;ITEM-0081;preco_unitario;simbolo_monetario;2,00;R$ 2,00
+83;ITEM-0082;preco_unitario;simbolo_monetario;12,90;R$ 12,90
+84;ITEM-0083;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+85;ITEM-0084;preco_unitario;simbolo_monetario;25,90;R$ 25,90
+86;ITEM-0085;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+87;ITEM-0086;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+88;ITEM-0087;preco_unitario;simbolo_monetario;5,90;R$ 5,90
+89;ITEM-0088;preco_unitario;simbolo_monetario;2,00;R$ 2,00
+90;ITEM-0089;preco_unitario;simbolo_monetario;32,90;R$ 32,90
+91;ITEM-0090;preco_unitario;simbolo_monetario;3,50;R$ 3,50
+92;ITEM-0091;produto;maiusculas_e_espacos;Caderno pequeno;  CADERNO PEQUENO  
+93;ITEM-0092;produto;maiusculas_e_espacos;Borracha branca;  BORRACHA BRANCA  
+94;ITEM-0093;produto;maiusculas_e_espacos;Caderno pequeno;  CADERNO PEQUENO  
+95;ITEM-0094;produto;maiusculas_e_espacos;Caderno universitário;  CADERNO UNIVERSITÁRIO  
+96;ITEM-0095;produto;maiusculas_e_espacos;Estojo escolar;  ESTOJO ESCOLAR  
+97;ITEM-0096;produto;maiusculas_e_espacos;Papel A4 500 folhas;  PAPEL A4 500 FOLHAS  
+98;ITEM-0097;produto;maiusculas_e_espacos;Papel A4 500 folhas;  PAPEL A4 500 FOLHAS  
+99;ITEM-0098;produto;maiusculas_e_espacos;Estojo escolar;  ESTOJO ESCOLAR  
+100;ITEM-0099;produto;maiusculas_e_espacos;Caneta preta;  CANETA PRETA  
+101;ITEM-0100;produto;maiusculas_e_espacos;Caderno pequeno;  CADERNO PEQUENO  
+102;ITEM-0101;produto;maiusculas_e_espacos;Papel A4 500 folhas;  PAPEL A4 500 FOLHAS  
+103;ITEM-0102;produto;maiusculas_e_espacos;Lápis grafite;  LÁPIS GRAFITE  
+104;ITEM-0103;produto;maiusculas_e_espacos;Mochila escolar;  MOCHILA ESCOLAR  
+105;ITEM-0104;produto;maiusculas_e_espacos;Régua 30 cm;  RÉGUA 30 CM  
+106;ITEM-0105;produto;maiusculas_e_espacos;Estojo escolar;  ESTOJO ESCOLAR  
+107;ITEM-0106;produto;maiusculas_e_espacos;Régua 30 cm;  RÉGUA 30 CM  
+108;ITEM-0107;produto;maiusculas_e_espacos;Caderno pequeno;  CADERNO PEQUENO  
+109;ITEM-0108;produto;maiusculas_e_espacos;Caneta preta;  CANETA PRETA  
+110;ITEM-0109;produto;maiusculas_e_espacos;Borracha branca;  BORRACHA BRANCA  
+111;ITEM-0110;produto;maiusculas_e_espacos;Borracha branca;  BORRACHA BRANCA  
+112;ITEM-0111;produto;maiusculas_e_espacos;Caderno pequeno;  CADERNO PEQUENO  
+113;ITEM-0112;produto;maiusculas_e_espacos;Régua 30 cm;  RÉGUA 30 CM  
+114;ITEM-0113;produto;maiusculas_e_espacos;Mochila escolar;  MOCHILA ESCOLAR  
+115;ITEM-0114;produto;maiusculas_e_espacos;Lápis grafite;  LÁPIS GRAFITE  
+116;ITEM-0115;produto;maiusculas_e_espacos;Caderno universitário;  CADERNO UNIVERSITÁRIO  
+117;ITEM-0116;produto;maiusculas_e_espacos;Caneta azul;  CANETA AZUL  
+118;ITEM-0117;produto;maiusculas_e_espacos;Lápis grafite;  LÁPIS GRAFITE  
+119;ITEM-0118;produto;maiusculas_e_espacos;Caderno universitário;  CADERNO UNIVERSITÁRIO  
+120;ITEM-0119;produto;maiusculas_e_espacos;Mochila escolar;  MOCHILA ESCOLAR  
+121;ITEM-0120;produto;maiusculas_e_espacos;Caneta preta;  CANETA PRETA  
+122;ITEM-0121;preco_unitario;ponto_decimal;19,90;19.90
+123;ITEM-0122;preco_unitario;ponto_decimal;19,90;19.90
+124;ITEM-0123;preco_unitario;ponto_decimal;32,90;32.90
+125;ITEM-0124;preco_unitario;ponto_decimal;3,50;3.50
+126;ITEM-0125;preco_unitario;ponto_decimal;19,90;19.90
+127;ITEM-0126;preco_unitario;ponto_decimal;5,90;5.90
+128;ITEM-0127;preco_unitario;ponto_decimal;3,50;3.50
+129;ITEM-0128;preco_unitario;ponto_decimal;129,90;129.90
+130;ITEM-0129;preco_unitario;ponto_decimal;3,50;3.50
+131;ITEM-0130;preco_unitario;ponto_decimal;25,90;25.90
+132;ITEM-0131;preco_unitario;ponto_decimal;12,90;12.90
+133;ITEM-0132;preco_unitario;ponto_decimal;2,50;2.50
+134;ITEM-0133;preco_unitario;ponto_decimal;2,00;2.00
+135;ITEM-0134;preco_unitario;ponto_decimal;25,90;25.90
+136;ITEM-0135;preco_unitario;ponto_decimal;5,90;5.90
+137;ITEM-0136;preco_unitario;ponto_decimal;25,90;25.90
+138;ITEM-0137;preco_unitario;ponto_decimal;12,90;12.90
+139;ITEM-0138;preco_unitario;ponto_decimal;2,50;2.50
+140;ITEM-0139;preco_unitario;ponto_decimal;19,90;19.90
+141;ITEM-0140;preco_unitario;ponto_decimal;2,00;2.00
+142;ITEM-0141;preco_unitario;ponto_decimal;3,50;3.50
+143;ITEM-0142;preco_unitario;ponto_decimal;2,00;2.00
+144;ITEM-0143;preco_unitario;ponto_decimal;3,50;3.50
+145;ITEM-0144;preco_unitario;ponto_decimal;3,50;3.50
+146;ITEM-0145;preco_unitario;ponto_decimal;32,90;32.90
+147;ITEM-0146;preco_unitario;ponto_decimal;3,50;3.50
+148;ITEM-0147;preco_unitario;ponto_decimal;25,90;25.90
+149;ITEM-0148;preco_unitario;ponto_decimal;2,50;2.50
+150;ITEM-0149;preco_unitario;ponto_decimal;3,50;3.50
+151;ITEM-0150;preco_unitario;ponto_decimal;2,00;2.00
+302;ITEM-0021;*;duplicata_identica;;cópia integral
+303;ITEM-0022;*;duplicata_identica;;cópia integral
+304;ITEM-0023;*;duplicata_identica;;cópia integral
+305;ITEM-0024;*;duplicata_identica;;cópia integral
+306;ITEM-0025;*;duplicata_identica;;cópia integral
+307;ITEM-0026;*;duplicata_identica;;cópia integral
+308;ITEM-0027;*;duplicata_identica;;cópia integral
+309;ITEM-0028;*;duplicata_identica;;cópia integral
+310;ITEM-0029;*;duplicata_identica;;cópia integral
+311;ITEM-0030;*;duplicata_identica;;cópia integral
+312;ITEM-0013;preco_unitario;id_com_informacoes_conflitantes;129,90;1,00

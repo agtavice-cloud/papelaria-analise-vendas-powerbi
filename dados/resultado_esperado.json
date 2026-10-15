@@ -1,0 +1,14 @@
+{
+  "dados_sinteticos": true,
+  "semente": 20261012,
+  "linhas_referencia": 300,
+  "linhas_entrada": 311,
+  "duplicatas_identicas_remover": 10,
+  "linhas_para_revisao": 14,
+  "ids_distintos_para_revisao": 13,
+  "itens_validos": 287,
+  "vendas_distintas_com_itens_validos": 144,
+  "receita_itens_validos_centavos": 2441740,
+  "receita_referencia_completa_centavos": 2606130,
+  "nota": "Receita após exclusões não é a receita completa. A venda com ITEM-0014 tem outro item pendente."
+}
